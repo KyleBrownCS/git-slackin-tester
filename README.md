@@ -1,4 +1,5 @@
 # git-slackin-tester
 Test repo for git slackin notifications
 
-edit 8
+edit 9
+
